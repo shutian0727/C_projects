@@ -1,0 +1,20 @@
+s. Briefly explain how the two functions findContactIndex and getTenDigitPhone benefit your source code with respect to overall maintenance and readability.
+
+We were using the code inside it in many functions so it helped us to avoid writing the loic behind the functions again and again.The functions reduced the amount of code in my program and hence it made it more efficient.
+
+The readability of two functions is clear. Each function performs certain task. We can just call functions when we need them in the middle of coding, we don't need to rewrite or read the codes again, we already know the purpose of the function and what the function is going to do.
+
+The maintenance of two functions is easily implemented. If we decide to change the parameters or change the cellphone numbers into social number in findContactIndex, we just need to rewrite the findContactIndex function once rather than change the whole code block. Hence, it is very easy to maintain.
+
+
+4. What did you learn most from doing Assignment 2?
+In this assignment, 
+I learn that :
+
+1. calling functions in other functions which can save us considerable amount of time to rewrite the similar coding instructions.
+
+2.The use of combination of array, struct and pointer can be confusing, especially in the syntax features. The syntax features and way of using array and struct can be different, but sometimes it can also be similar. 
+
+3.How to clear and use buffer in the function and programming. We can clear the buffer if it's necessary. Clearing buffer is used usually after scanf, just to avoid the left data passing to the following functions. Buffer stores data temporarily and the the data in buffer can affect the following functions. Using buffer improperly is very important which can make the program run badly and it gives me confusions and mistakes. If we scanf string and number, there is an easy mistake that string may be left, so clearing buffer needs to be used.
+
+4. Using the string functions can be helpful in coding, it provides easier way to calculate the length of strings as well as compare them which was needed in milestone4.

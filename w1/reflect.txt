@@ -1,0 +1,7 @@
+From the workshop1, I have learnt how to use Visual studio to code, edit and execute a C-language programme and using Putty and SSH client to transfer source and to submit my workshop assignment. It is very useful to know how to use an Putty and SCP to transfer files and source codes between a lab or peronal computer and a remote host.
+    I also learnt how to test my solution on the remote host, Matrix.
+There is a feww steps I learnt from the workshop assignment:
+1. creating the program by establishing a new project in Visual studio 2015 and typing the soure code in it 
+2. building a solution to test the code in visual studio. If unsuccesful,fix the errors and run again. 
+3. saving it to a file named and execute it in the command prompt window.
+4. If succesful, submit in matrix account.

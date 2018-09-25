@@ -1,0 +1,19 @@
+ Reflection:
+Please provide brief answers to the following questions in a file named reflect.txt. 
+1.	Briefly explain why you think this assignment has asked you to code a struct, Contact, that holds three other structs as data members. 
+2.	What was the most difficult part of this assignment? 
+3.	How long did it take you to complete Milestone 4?
+ 
+1)	The purpose of this assignment is to test us if we really know how to use pointer and function coding and use pointer to pass by address and struct between functions. 
+Also, the MS4 ask us to simplify the code of the declaration. 
+For instance, the Milestone2’s code is 
+     struct Name fullname = { "", "","" };
+     struct Address fulladdress = { 0,"",0,"","" };
+     struct Numbers fullnumbers = { "","","" };
+  However, the Milestone4’s code is “struct Contacts contact = { 0 };
+“, which is more useful and efficient, especially when programmers have to declare massive information.
+
+
+2)	As far as I am concerned, the most difficult part is code using the concept of functions and pointers. Specially, it’s hard to define when should I use an address (&) or not. There are also some difference between function and pointer during the coding programs.
+  
+3)	 It took me about 5 hours to complete milestone 4.

@@ -1,0 +1,10 @@
+
+1. In 3 or 4 sentences explain the term “function” and briefly discuss the need for functions in any language? 
+2. Briefly explain why you think the "helper" functions are in a different module and why those functions were not included in the "contacts" module? 
+ 
+1. Function can be considered as a set of blocks of code and instruction that performs a specific instruction. In C programming language, function can transfer control between on one another. There are caller function and function being called.
+When a function transfers control to another function, it callsther another function here. Once the function completes its task and transfer control to the caller function, the other function returns control to its caller.
+I think it is the basic process and use of function in C.
+
+2.Helper function can perform part of the computation of another function, it can make running programs easier to read. Helper functions perform a single task of instruction/code of another function and only that task, the helper function works like a cohesion.
+We allocate unrelated task to sepaerate modules in the program design, and helper function only perform one task of one module, that's why the "helper" functions are in a different module.

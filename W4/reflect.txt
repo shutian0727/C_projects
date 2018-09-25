@@ -1,0 +1,10 @@
+1)	In one or two sentences explain why the arrays in this program have to be declared to hold 10 elements?
+The range of number of days is between 3 and 10, the 10 elements are the maximum number o days which can give larger range to initialise. The input data has to be less or equal to initialisation data.
+
+2)	In two or three sentences explain the advantages and disadvantages of using matching arrays?
+The advanatges of using matching arrays can be more clear and more organised by showing multiple data of same type under the single name.
+The disadvantages of using matching arrays is that Array is of fixed size. So the memory allocated to array cannot be increased or reduced.
+
+3)	Was the at home portion of this workshop too easy, just right or too hard? Why? 
+No, it was not. Because it needs a lot of attention on debugging and testing and chapter arrays covers some important knowledge points such as parallel arrays and test us how to store data of common type using an array sructure and to process the elements of an array using an iteration construct.
+

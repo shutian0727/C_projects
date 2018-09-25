@@ -1,0 +1,12 @@
+Please provide brief answers to the following questions in a file named reflect.txt.
+
+1. Can you think of a more efficient way to ask a user to add the required information to each data field?
+
+2. Explain why a C string that is required to store up to 25 characters must be capable of storing 26 characters.
+
+ 
+
+   1) The most efficient way to create a struct to add information to each data field is to use function which can avoid duplication of code in programs and reduces the size of the source program as well as the executable program. We can just call a function from main function and pass the required information or data by value to the function call. Using the arguments in the function call to initialise the parameters of function pass by value. the same or similar activity may be required to be performed more than once. The use of functions in such situations.
+    2) C string should be ended with null character \0, hence, a string should be able to store one more character than the size of characters it should store.
+
+ 

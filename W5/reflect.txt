@@ -1,0 +1,3 @@
+1. An array of structs is easier to manage. It allows the data to be stored together in physical memory. And different types of members can be included inside the structs.
+
+2. Because we declare our structure globally and store its declaration in a header file.
